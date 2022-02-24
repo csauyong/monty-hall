@@ -71,7 +71,7 @@ $P(C|B) = 1 - P(A|B) = \frac{2}{3} > P(A|B)$
 Therefore, we should always switch.
 
 
-# Game Theory
+## Game Theory
 
 We can transform the Monty Hall problem into an extensive card game. The events that happen in sequence are:
 
