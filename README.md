@@ -58,7 +58,7 @@ If we switch, then consider the probability $P(A|B)$ where
 *   A = door 1 has car behind
 *   B = host opens up door 2 (or 3 WLOG)
 
-$$P(B) = \frac{1}{2}$$
+<img src="https://render.githubusercontent.com/render/math?math=P(B) = \frac{1}{2}">
 
 $$P(A \cap B) = \frac{1}{3} \times \frac{1}{2} = \frac{1}{6}$$
 
